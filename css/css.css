@@ -1,0 +1,169 @@
+.black a{
+	color: black;
+}
+.black a:hover{
+	 color: #ffbe42;
+     text-decoration: none;
+}
+.color{
+	background-color: #ffbe42;
+	color: white;
+}
+.par{
+	font-size: 12px;
+}
+.para{
+	font-size: 23px;
+	color: #757575;
+}
+
+.button{
+    border-radius: 2px;
+    background-color: #244b5c;
+    border: none;
+    padding: 15px 55px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.button2{
+    border-radius: 2px;
+    background-color: #244b5c;
+    border: none;
+    padding: 10px 35px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.desk_con{
+	padding: 23px;
+	border: 1px solid  #f97171;
+	border-radius: 45px;
+	background-color: #f97171;
+	color:#fff; 
+	margin-top: 5%;
+
+}
+
+.desk_con1{
+	padding: 24px 25px 24px 25px ;
+	border: 1px solid  #f97171;
+	border-radius: 50px;
+	background-color: #f97171;
+	color:#fff; 
+	margin-top: 5%;
+
+}
+.desk_con2{
+	padding: 15px 30px 15px 30px;
+	border: 1px solid  #f97171;
+	border-radius: 50px;
+	background-color: #f97171;
+	color:#fff; 
+	margin-top: 5%;
+
+}
+.desk_con3{
+	padding: 24px 25px 24px 25px ;
+	border: 1px solid  #f97171;
+	border-radius: 50px;
+	background-color: #f97171;
+	color:#fff; 
+	margin-top: 5%;
+
+}
+.col{
+	background-color: #244b5c;
+}
+.colorblack{
+	background-color: #244b5c;
+}
+.pro{
+    background-color: #f7cd68;
+}
+  
+.colory{
+	background-color: #f3f3f3;
+}
+.form{
+	background-color: #f4f4f4;
+
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-image: none;
+    border: 1px solid #ccc;
+}
+.form1{
+	background-color: #f4f4f4;
+    display: block;
+    width: 100%;
+    height: 144px;
+    padding: 6px 12px;
+    font-size: 18px;
+    line-height: 1.42857143;
+    color: #555;
+    background-image: none;
+    border: 1px solid #ccc;
+}
+.min{
+	margin-top: -30px;
+}
+.font{
+	font-size: 22px;
+}
+.font1{
+	font-size: 25px;
+}
+.yellow{
+	background-color: #f7cd68;
+}
+.head{
+	font-size: 95px; 
+}
+.hea{
+	font-size: 28px;
+
+}
+.parag{
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+}
+.para1{
+	font-size: 23px;
+	color: black;
+}
+.desk{
+	padding: 24px 29px 24px 29px ;
+	border: 1px solid  white;
+	border-radius: 50px;
+	background-color: white;
+	color: #ffbe42; 
+	margin-top: 5%;
+
+}
+.desk1{
+	padding: 24px 24px 24px 24px ;
+	border: 1px solid  white;
+	border-radius: 50px;
+	background-color: white;
+	color: #ffbe42; 
+	margin-top: 5%;
+
+}
+.mercy: hover{
+	color: #ffbe42;
+	text-decoration: none;
+}
+.mercy {
+	color: black;
+}
+.brow{
+	background-color: #454545;
+}
